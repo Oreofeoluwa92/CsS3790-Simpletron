@@ -15,16 +15,16 @@ with SML programs.
 In writing this code so many consultations where made in understanding it a bit.
 
 Implementation: 
-
-To compile,type and run the following command in the terminal "javac SimpletronV2.java"
 To Run, type and run the following command in the terminal "java SimpletronV2"
 
 After launching the program, the simulator will prompt you to either load a 
 program from a file or enter it manually.
 
-To load from a file, type "Y" when prompted and provide the filename (.sml file).
+To load from a file, type "Y" when prompted and provide the filename (.sml file or txt).
 To enter manually, type "N" and input each instruction one by one, ending with the keyword "GO"
 
 Once the program is loaded, the simulator will automatically execute the instructions in memory.
+
+here is a link https://github.com/Oreofeoluwa92/Oreofeoluwa92.git
 
 
