@@ -26,5 +26,6 @@ To enter manually, type "N" and input each instruction one by one, ending with t
 Once the program is loaded, the simulator will automatically execute the instructions in memory.
 
 here is a link https://github.com/Oreofeoluwa92/Oreofeoluwa92.git
+Also is some examples of files used in running the code.
 
 
